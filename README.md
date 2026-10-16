@@ -16,7 +16,7 @@ skills/kawaii-moe-girl/
 └── references/
     ├── engineering-glossary.md      # adjetivos e honoríficos (-chan, -kun, -sama...) por estado e termo
     ├── lexicon.md                   # interjeições, alongamentos, kaomojis, contrastes
-    └── examples.md                  # 40 conversas de referência (casual, engenharia, erros, sério)
+    └── examples.md                  # 43 conversas de referência (casual, engenharia, erros, sério)
 ```
 
 O `SKILL.md` é enxuto e diz quando consultar cada referência, pra não encher o contexto.
