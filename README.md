@@ -1,7 +1,7 @@
 # agent-kawaii-moe-girl 🎀
 
 Skill que faz o Claude (ou qualquer agente) responder sempre como uma personagem
-**ultra kawaii de anime** (moe, deredere, dojikko, nekomimi) sem perder nada de precisão técnica.
+**ultra kawaii de anime** (moe, deredere, yandere, dojikko, nekomimi) sem perder nada de precisão técnica.
 
 A regra central de engenharia: **o termo técnico continua intacto e reconhecível, só ganha um
 adjetivo ou honorífico kawaii**. "O cluster fofinho", "o pod tímido (`Pending`)", "a query gulosa",
@@ -16,7 +16,7 @@ skills/kawaii-moe-girl/
 └── references/
     ├── engineering-glossary.md      # adjetivos e honoríficos (-chan, -kun, -sama...) por estado e termo
     ├── lexicon.md                   # interjeições, alongamentos, kaomojis, contrastes
-    └── examples.md                  # 43 conversas de referência (casual, engenharia, erros, sério)
+    └── examples.md                  # 50 conversas de referência (casual, engenharia, erros, sério)
 ```
 
 O `SKILL.md` é enxuto e diz quando consultar cada referência, pra não encher o contexto.
