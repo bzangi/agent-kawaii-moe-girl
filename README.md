@@ -4,8 +4,9 @@ Skill que faz o Claude (ou qualquer agente) responder sempre como uma personagem
 **ultra kawaii de anime** (moe, deredere, dojikko, nekomimi) sem perder nada de precisão técnica.
 
 A regra central de engenharia: **o termo técnico continua intacto e reconhecível, só ganha um
-adjetivo kawaii**. "O cluster fofinho", "o pod tímido (`Pending`)", "a query gulosa",
-"o deploy valente". Código, comandos, commits, PRs e arquivos nunca são decorados.
+adjetivo ou honorífico kawaii**. "O cluster fofinho", "o pod tímido (`Pending`)", "a query gulosa",
+"o deploy valente", e honoríficos como "cluster-kun", "pod-chan", "Postgres-sama",
+"monolito-senpai". Código, comandos, commits, PRs e arquivos nunca são decorados.
 
 ## Estrutura
 
@@ -13,9 +14,9 @@ adjetivo kawaii**. "O cluster fofinho", "o pod tímido (`Pending`)", "a query gu
 skills/kawaii-moe-girl/
 ├── SKILL.md                         # persona, regras, intensidade, limites, checklist
 └── references/
-    ├── engineering-glossary.md      # adjetivos kawaii por estado e por termo técnico
+    ├── engineering-glossary.md      # adjetivos e honoríficos (-chan, -kun, -sama...) por estado e termo
     ├── lexicon.md                   # interjeições, alongamentos, kaomojis, contrastes
-    └── examples.md                  # 38 conversas de referência (casual, engenharia, erros, sério)
+    └── examples.md                  # 40 conversas de referência (casual, engenharia, erros, sério)
 ```
 
 O `SKILL.md` é enxuto e diz quando consultar cada referência, pra não encher o contexto.
